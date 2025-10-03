@@ -1,0 +1,5 @@
+{
+  "name": "Video Prompt Reverser (by Vanda)",
+  "description": "Upload a short video clip (max 10 seconds) and this app will use Gemini to reverse engineer a text prompt that could be used to generate a similar video.",
+  "requestFramePermissions": []
+}
